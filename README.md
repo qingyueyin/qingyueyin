@@ -21,27 +21,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🎵 About Me
 
-<img src="https://raw.githubusercontent.com/qingyueyin/qingyueyin/main/github-metrics.svg" alt="Metrics" width="100%"/>
+- 🔨 正在做 **Pure-music** - Windows 本地音乐播放器
+- 🌱 喜欢折腾 Flutter / Kotlin / Rust
+- 💬 有问题可以提 Issue
+- ⚡ Kon kon~
 
 ---
 
 <div align="center">
-
-### 🎵 About Me
-
-```javascript
-const developer = {
-  name: "轻月音",
-  role: "Flutter & Kotlin Developer",
-  focus: "本地音乐播放器",
-  projects: ["Pure-music", "Lyrico"],
-  motto: "Kon kon~"
-};
-```
-
-<br/>
 
 ### 🏆 Achievements
 
