@@ -10,7 +10,7 @@
 <br/>
 
 <!-- 打字机效果 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Kon+kon~+我是轻月音;Flutter+%7C+Kotlin+%7C+Rust;正在做音乐播放器;欢迎来到我的GitHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Welcome;欢迎光临;Hello+World;你好呀)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,11 +26,3 @@
 - 🔨 正在做 **Pure-music** - Windows 本地音乐播放器
 - 🌱 喜欢折腾 Flutter / Kotlin / Rust
 - 💬 有问题可以提 Issue
-
----
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/follow-@qingyueyin-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/qingyueyin)
-
-</div>
