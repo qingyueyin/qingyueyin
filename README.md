@@ -18,8 +18,3 @@
 
 <!-- 技术栈 -->
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-
-<br/><br/>
-
-<!-- GitHub Stats - 自定义 SVG -->
-<img src="https://raw.githubusercontent.com/qingyueyin/qingyueyin/output/github-stats.svg" alt="GitHub Stats" />
