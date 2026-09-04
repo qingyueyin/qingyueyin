@@ -21,6 +21,5 @@
 
 <br/><br/>
 
-<!-- GitHub Stats -->
-<img src="https://img.shields.io/github/stars/qingyueyin?style=flat-square&color=F5C518&logo=github&logoColor=white" />
-<img src="https://img.shields.io/github/followers/qingyueyin?style=flat-square&color=F5C518&logo=github&logoColor=white" />
+<!-- GitHub Stats - 自定义 SVG -->
+<img src="https://raw.githubusercontent.com/qingyueyin/qingyueyin/output/github-stats.svg" alt="GitHub Stats" />
