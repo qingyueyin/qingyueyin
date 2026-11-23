@@ -1,6 +1,6 @@
 name: Snake
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 * * 1"}] # 每周一 00:00 UTC（北京时间周一 08:00）
   workflow_dispatch:
 
 jobs:
